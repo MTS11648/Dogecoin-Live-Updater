@@ -1,5 +1,7 @@
 # Dogecoin-Live-Updater
-Uses CoinMarketCap's API to provide Dogecoin values and stats in real time.
+Uses CoinMarketCap's API to provide Dogecoin values and stats in real time. 
+
+Every five seconds, the program will reach out to the Internet, grab the latest value of Dogecoin in USD and the percent changes and update them accordingly. You can also enter the amount of DOGE you have using the "Convert DOGE to USD" option and it will update, just like the values on the main form, in real time.
 
 # Requirements
 - Latest version of .NET Framework.

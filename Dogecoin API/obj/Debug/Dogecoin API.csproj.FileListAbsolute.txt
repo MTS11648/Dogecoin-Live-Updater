@@ -1,0 +1,12 @@
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\bin\Debug\Dogecoin API.exe.config
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\bin\Debug\Dogecoin API.exe
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\bin\Debug\Dogecoin API.pdb
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\bin\Debug\Newtonsoft.Json.dll
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\bin\Debug\Newtonsoft.Json.xml
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin API.csprojResolveAssemblyReference.cache
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin_API.Properties.Resources.resources
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin API.csproj.GenerateResource.Cache
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin API.exe
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin API.pdb
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin_API.ConvertToDoge.resources
+c:\users\donut\documents\visual studio 2017\Projects\Dogecoin API\Dogecoin API\obj\Debug\Dogecoin_API.MainUI.resources

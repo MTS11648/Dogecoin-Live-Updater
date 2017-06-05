@@ -1,3 +1,5 @@
+# THIS PROGRAM WILL NO LONGER RECEIVE UPDATES AS IT HAS BEEN SUPERCEDED BY https://github.com/MTS11648/Cryptocurrency-Universal-API
+
 # Dogecoin-Live-Updater
 Uses CoinMarketCap's API to provide Dogecoin values and stats in real time. 
 
